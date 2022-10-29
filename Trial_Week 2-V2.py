@@ -1713,20 +1713,6 @@ answer_eight()
 
 #$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-#############################################################################
-#Topics to review
-    #What is the difference between "Null", "NaN" and "None" in Python, Numpy...
-    #...and Pandas.
-    #Vectorization instead of iterative loops
-    #Parallel?
-    #Use of code "isin(range(898,88999))
-    #Meaning of "inplace:True / False" code
-    #hash tables
-    #how to download data from Jupyter Notebook (GitHub) and transform it from...
-    #...CSV to MS EXCEL.
-    #In what way we make code to run faster than other in Python or with Pandas..
-    #...and Numpy.
-
 
 
 
